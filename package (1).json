@@ -1,0 +1,11 @@
+{
+  "name": "gay-catalog-addon",
+  "version": "1.0.0",
+  "description": "Stremio addon - Catálogo gay e BL masculino mundial",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "stremio-addon-sdk": "^1.6.10"
+  }
+}
